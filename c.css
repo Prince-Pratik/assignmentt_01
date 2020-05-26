@@ -1,0 +1,71 @@
+
+section{
+	 display:inline-block;
+     width:400px;
+     border:2px solid black;
+     margin:35px 40px 35px 40px;
+     box-sizing:border-box;
+     border-spacing:0px; 
+     padding:0px 0px 5px 10px;
+     background:gray;
+
+}
+h1{
+
+	text-align:center; 
+}
+div.pratik{
+	margin:0%;
+
+	display:block;
+	background:#00b7ea;
+	box-sizing:border-box;;
+	border-left:2px solid black;
+	border-bottom:2px solid black;
+    width:85px;
+    padding:3px;
+    margin-bottom:3px; 
+    text-align:center;
+    position:right top;
+    overflow:auto;
+    float:right;  
+   font-family: 'Segoe UI', Tahoma, sans-serif; 
+   clear:auto;
+    }
+    div.vedu{
+	margin:0%;
+
+	display:block;
+	background:#ff00ff;
+	box-sizing:border-box;;
+	border-left:2px solid black;
+	border-bottom:2px solid black;
+    width:85px;
+    padding:3px;
+    margin-bottom:3px; 
+    text-align:center;
+    position:right top;
+    overflow:auto;
+    float:right;  
+   font-family: 'Segoe UI', Tahoma, sans-serif; 
+   clear:auto;
+    }
+    div.dugu{
+	margin:0%;
+
+	display:block;
+	background:#00ffff;
+	box-sizing:border-box;;
+	border-left:2px solid black;
+	border-bottom:2px solid black;
+    width:85px;
+    padding:3px;
+    margin-bottom:3px; 
+    text-align:center;
+    position:right top;
+    overflow:auto;
+    float:right;  
+   font-family: 'Segoe UI', Tahoma, sans-serif; 
+   clear:auto;
+    }
+    
